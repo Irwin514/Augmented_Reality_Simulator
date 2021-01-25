@@ -1,0 +1,24 @@
+﻿Build started 2019-12-22 4:56:47 PM.
+     1>Project "P:\Concordia\Semesters\2019Fall\M415\Project\graphics_maze_example2_project_organization\Vertices.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /I..\..\..\common /Zi /nologo /W3 /WX- /O2 /Ob2 /Oy /D WIN32 /D _DEBUG /D _WINDOWS /D _MBCS /Gm- /EHsc /MTd /GS- /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt my_project.cpp
+         my_project.cpp
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"Debug\Vertices.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /NODEFAULTLIB:libci.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"Debug\Vertices.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"Debug\Vertices.lib" /MACHINE:X86 /SAFESEH:NO /MACHINE:I386 /IGNORE:4089 Debug\draw_3D_graphics.obj
+         Debug\graphics.obj
+         Debug\iArray.obj
+         Debug\my_project.obj
+         Debug\ran.obj
+         Debug\ran2.obj
+         Debug\ran3.obj
+         Debug\robot.obj
+         Debug\rotation.obj
+         Debug\serial_com.obj
+         Debug\timer.obj
+         Vertices.lib
+         Vertices.vcxproj -> P:\Concordia\Semesters\2019Fall\M415\Project\graphics_maze_example2_project_organization\Debug\Vertices.exe
+     1>Done Building Project "P:\Concordia\Semesters\2019Fall\M415\Project\graphics_maze_example2_project_organization\Vertices.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:04.56
