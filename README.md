@@ -1,8 +1,8 @@
 # Augmented_Reality_Simulator
 
-The project will involve the development and documentation of a significant C++ programming application related to the material in this course.  Students are encouraged to develop an application related to their previous work or current interests in mechanical, industrial, or aerospace engineering.
+The project involved the development and documentation of a significant C++ programming application related to the material of Advanced C++  Programming.  Encouraged to develop an application related to their previous work or current interests in mechanical, industrial, or aerospace engineering.
  
-Lecture Topics
+Topics
 
 I) Object Oriented C++ Programming
 
