@@ -1,9 +1,16 @@
-# Augmented_Reality_Simulator
+CONCORDIA UNIVERSITY
+FACULTY OF ENGINEERING AND COMPUTER SCIENCE
 
-The project involved the development and documentation of a significant C++ programming application related to the material of Advanced C++  Programming.  Encouraged to develop an application related to their previous work or current interests in mechanical, industrial, or aerospace engineering.
- 
-Topics
+Course Outline:
+MECH 472  Mechatronics and Automation
 
+The project is a proof of concept of Real-time Data from an Accelerometer (MPU-6050) controlling the servo-motors of a real size flight simulator. 
+The accelerometer is a device that measures the acceleration, RATE OF CHANGE of the velocity of the microchip. It has the following sensing features: Gyroscope, acceleration in meters per second square (m/s^2), motion processing and clocking capabilites. 
+
+We successfully demonstrated that a life size flight simulator can be controlled with an IMU acceleremeter that can ultimately be install inside a moving drone, RC car or any moving vehicule. The sensing device could remotely give Real-time Flight simulation sensations to the pilot in the flight simulator.
+
+
+For this projects, the following topics were used to:
 I) Object Oriented C++ Programming
 
 1. Encapsulation
